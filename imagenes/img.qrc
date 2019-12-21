@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>valvula2.png</file>
+        <file>valvula_eentrada.png</file>
+    </qresource>
+</RCC>
